@@ -1,5 +1,6 @@
 
 import './App.css';
+import './Components/WordCard/WordCard.jsx';
 
 function App() {
   return (
