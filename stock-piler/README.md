@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# Stock_Piler_Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://amason083.github.io/Stock-Piler/
 
-## Available Scripts
+# Webpage_Name
 
-In the project directory, you can run:
+Stock Piler - Piler is another word for gather, stock is in reference to stock photos. So when you put them together, you get a website used for gathering stock photos.
 
-### `npm start`
+# Purpose_Statement
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Purpose: This website is for Programmers, Designers, and Hobbysts to compile photos together for projects. This site allows you to make multiple searches for stock photos that upon clicking said photos, get held for you to later review and decide if you want to save them or remove them.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# How To Use It
 
-### `npm test`
+Form: You will type in your search prompt within the form box for whatever you would like to search for. Then you will hit search and the results will show up below.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Results: You will then look through the results and any photo you would like to hold onto for review later, you will click on it.
 
-### `npm run build`
+Show Selected Images: Once you have made all the searches you need and selected all of the photos you want, you will click the show selected images button where it will pull up all the images that you clicked. There, you can choose to download them or hit the x in the top right of the photo to delete them.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Technologies Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+HTML
+CSS
+JavaScript
+React
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# User Stories
 
-### `npm run eject`
+User Types:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Tech Tina** is a Front-End Developer and is tired of having 20 tabs open to compare photos and needs to be able to look up photos fast and pull them together cohesively to get an understanding of what his website will look like.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Danny Design** is a Grpahic Deisgner whoe wants to be able add and remove photos as their mind moves through all the potential designs.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **Howard the Hobbysts** is a Scrapbooking Hpbbysts who wants a reliable site to easily look up porfessional photos to accent their personal photos in their srapbooks.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
 
-## Learn More
+As Tech Tina
+I want to find photos for my website projects so that I can easily look at all of them together for review before downloading.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+As Danny Design
+I want to find photos for my advertisement projects so that I can look at a lot of similar photos to compare them and the ones I don't like, I can delete from my results before downloading.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+As Howard the Hobbysts
+I want to find photos for my scrap booking projects so that I can fill in empty spece with beautiful, stock photos.
 
-### Code Splitting
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
