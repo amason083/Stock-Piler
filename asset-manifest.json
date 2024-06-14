@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Stock-Piler/static/css/main.145e0991.css",
+    "main.js": "/Stock-Piler/static/js/main.90484c7d.js",
+    "static/js/453.0485ed99.chunk.js": "/Stock-Piler/static/js/453.0485ed99.chunk.js",
+    "index.html": "/Stock-Piler/index.html",
+    "main.145e0991.css.map": "/Stock-Piler/static/css/main.145e0991.css.map",
+    "main.90484c7d.js.map": "/Stock-Piler/static/js/main.90484c7d.js.map",
+    "453.0485ed99.chunk.js.map": "/Stock-Piler/static/js/453.0485ed99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.145e0991.css",
+    "static/js/main.90484c7d.js"
+  ]
+}
